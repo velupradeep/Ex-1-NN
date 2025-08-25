@@ -77,22 +77,42 @@ print("Lenght of X_test ",len(X_test))
 
 <img width="557" height="546" alt="479895226-e0776476-243c-4886-9633-d1ba53a8daaa" src="https://github.com/user-attachments/assets/74238798-6738-4a2c-934c-ed5cc944a239" />
 
+<br>
+
 <img width="669" height="678" alt="479895492-832ea199-99f4-4f19-a56f-1cc59575e556" src="https://github.com/user-attachments/assets/edb34852-0869-4bd0-9a48-271d4d28ea4b" />
+
+<br>
 
 <img width="227" height="236" alt="479895579-8e614954-ebac-4c1a-b0e5-1afaa0cb2686" src="https://github.com/user-attachments/assets/f038790b-21a3-4ea4-92e2-69cfb0317591" />
 
+<br>
+
 <img width="247" height="381" alt="479895686-ddb4fbbb-312f-49a3-b061-4cd2aaec6c9c" src="https://github.com/user-attachments/assets/9a200bd5-fa78-415d-a0c4-a880b1942b45" />
 
+<br>
+
 <img width="646" height="259" alt="479895793-b502073d-6eb7-4562-88b5-8b634aad5d39" src="https://github.com/user-attachments/assets/f2dde1f2-79c7-46bf-8156-b959f099dbcf" />
+
+<br>
+
 
 
 <img width="388" height="192" alt="479895872-e92e80a8-66b2-4db1-a236-e014bcada998" src="https://github.com/user-attachments/assets/b23633f7-59fd-4803-bf0b-e2d10e0c6b00" />
 
+<br>
+
 <img width="441" height="223" alt="479895967-808aff04-063b-4005-9482-f7d765d235e4" src="https://github.com/user-attachments/assets/32e38e3b-bb0e-4cb2-87f6-358e6c2276ae" />
+
+<br>
+
 
 <img width="511" height="726" alt="479896163-1a5fd685-cd27-4890-8783-b296ccab5f58" src="https://github.com/user-attachments/assets/19d0dc07-05d3-478d-900a-ecbb96cb5e06" />
 
+<br>
+
 <img width="418" height="449" alt="479896271-e130ddf8-7738-4683-b5f4-48a083a684c5" src="https://github.com/user-attachments/assets/ef9d6366-69be-4722-b9f2-1575aa0c15b6" />
+
+<br>
 
 <img width="262" height="41" alt="479896376-f1cb9c63-9751-47d1-ba69-9fa7607b4e3c" src="https://github.com/user-attachments/assets/e0ed8a08-ca22-42eb-9e06-e957cc7baed8" />
 
